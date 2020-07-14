@@ -1,4 +1,6 @@
 # Azure Load Balancer IP Grab
+# This program creates a report of an Azure Load Balancer's IP configuration and networking setup
+
 # Instructions: Copy the entire contents of this file and paste into a Powershell session OR run this file from commandline
 
 # Login to Azure
