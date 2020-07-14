@@ -1,3 +1,4 @@
+# This program creates a report of VM subnet, IP, and routing information within a given subscription.
 
 # Determine and Assign file path
 $DesktopPath = [Environment]::GetFolderPath("Desktop")
